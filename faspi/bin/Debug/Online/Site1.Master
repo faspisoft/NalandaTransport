@@ -1,0 +1,111 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="nalanadatransport.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NALANDA XPRESS</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/Site2.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="scripts/jquery.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
+  
+     <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   
+   
+    
+   <div class="container-fluid">
+   
+   <div class="row top-heaer" >
+   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+   <ul class="list-inline list-unstyled top-header-first-ul" style="margin-left:30px;">
+ 
+   <li><a href="Tel: +919889401111"><i class="fa fa-phone"></i> +919889401111</a></li>
+   <li>&nbsp;</li>
+   <li><a href="mail:nalandaxpress@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>
+ nalandaxpress@gmail.com</a></li>
+   </ul>
+   </div>
+   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+   <ul class="list-inline list-unstyled  top-header-second-ul pull-right">
+    <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color:White;">
+     <label class="text-white"><%=PageSecurity.UserName(this.Page) %></label>   <span class="caret"></span></a>
+        <ul class="dropdown-menu menu-site">
+          <li><a href="ChangePassword.aspx">Change Password</a></li>
+          <li><a href="Login.aspx?act=logout">Log Out</a></li>
+         
+        </ul>
+      </li>
+   </ul>
+   </div>
+   </div><!----end of top row-------->
+</div><!-------end of container-fluid----------> 
+  <!----navbar start----------> 
+   
+   <nav class="navbar navbar-default">
+  <div class="container-fluid ">
+  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  <img src="img/logo.JPG" class="img-responsive header-logo"/>
+  </div>
+  <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+       <% if(PageSecurity.isAuthenticated(this.Page)==UserType.ADMIN){ %>
+            <li><a href="podupdate.aspx">Update POD</a></li>
+            <li><a href="GRdetails.aspx">G.R.Details</a></li>
+             <li><a href="StockRegister.aspx">Stock Register</a></li>
+              <%--<li><a href="Search.aspx">G.R. Search</a></li>--%>
+              <li><a href="BookRegister.aspx">Booking Register</a></li>                      
+              <% }%>
+
+              <% if(PageSecurity.isAuthenticated(this.Page)==UserType.USER){ %>
+            <li><a href="podupdate.aspx">Update POD</a></li>
+                        
+              <% }%>
+
+               <% if(PageSecurity.isAuthenticated(this.Page)==UserType.CUSTOMER){ %>
+                    <li><a href="CustConsinerRegister.aspx">Outword Register</a></li>    
+                    <li><a href="CustConsineeRegister.aspx">Inword Register</a></li>
+                                        
+              <% }%>
+        
+      </ul>
+    </div>
+    </div>
+    </div>
+  </nav>
+<!---end of navbar----------->
+   
+    <div>
+        <form id="form2" runat="server">
+    <div class="container-fluid well">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+     
+    </div>
+    <!--end of slider-->
+    <div style="text-align: center; height: 60px; background-color: rgb(0, 0, 0);" class=" well well-sm">
+        <p style="margin-top: 10px; color: rgb(255, 255, 255);">
+            Powered &amp; Developed by <a target="new" style="color: rgb(255, 153, 0);" href="http://faspi.in/">
+                Faspi Enterprises Pvt Ltd</a></p>
+    </div>
+</body>
+</html>

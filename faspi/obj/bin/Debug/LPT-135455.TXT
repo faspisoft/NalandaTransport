@@ -1,0 +1,49 @@
+W1                                                            Nalanda Express Transport Corporation
+
+                                                            F-128 TP Nagar
+
+                                                               Lucknow
+
+                                                                                          Mobile no : 7617007373
+
+                                                                                          GSTin no : 09AOSPS6215F1ZH
+
+                                                                                          Email Id : nalandaxpress@gmail.com
+
+                              Challan Number 1
+
+                             Challan Date 14-Apr-2018                              Truck Number UP62AT4065
+
+                              Driver Name Ajay Yadav
+
+                              Station From ALLAHABAD 2
+
+                              Station To SAIYAD RAJA
+
+Sno    Booking Date  GRno      Consigner           ConsignerSourceDestination  Description, Quantity,   Weight,  Freight
+1      11-Apr-2018   47049     A.V. Drug Agency    A.V. Drug Agency VARANASI AHRAURA(MZP) Chemical ,       1 ,       1 ,     356 
+2      09-Apr-2018   47048     Vyapar Sadan        Garg Book Dipot LUCKNOW AZAMGARH      P.Books ,       7 ,     210 ,     505 
+3      05-Apr-2018   47047     Vyapar Sadan        Agrwal Book Dipot LUCKNOW AZAMGARH      P.Books ,       3 ,      90 ,     195 
+                              Total To Pay 1056
+
+                              Total Paid 0
+
+                              Total To Be Billed 0
+
+                              Total FOC 0
+
+                              Lorry Freight 2
+
+                              Crossing Charge 6
+
+                              Freight Pay 5
+
+                              Balance Freight 4
+
+                               Less DC 1
+
+                              Paid Freight 8
+
+                              Advance Paid 3
+
+

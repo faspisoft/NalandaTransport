@@ -1,0 +1,1250 @@
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\ResolveAssemblyReference.cache
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.DisplayData.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmbackup.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBalTransfer.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBank.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBroker.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCashRec.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmChangePass.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCharges.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCompanyColor.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmControlRoom.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCustSuppRate.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDebitCredit.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDescription.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEdit.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEdit1.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDescList.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditDescription.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditGroup.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditVouchers.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmHelp.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImportDesc.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImportRate.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImpRate.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmItem.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmItemCharges.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmJournal.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmLogin.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmMailer.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmModifyGroup.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmOptions.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmPacking.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmQuery.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmRegistration.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport2.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport3.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport5.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport6.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport7.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSmsSetting.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTaxCategory.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTransactionReports.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTransaction.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_eFiling.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_eFilingCST.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_email.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_main.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_Missprint.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewAcc.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewCompany.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewGroup.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Frm_PurImp.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_vouchertype.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.GetData.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.GroupGrid.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.InputBox.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Properties.Resources.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Search.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.SelectAcc.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.showReport.resources
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.exe.manifest
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.exe
+I:\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.pdb
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.exe.manifest
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.application
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.exe
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.pdb
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\bin\Release\ExpandableGridView.dll
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\bin\Release\ExpandableGridView.pdb
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.DisplayData.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmbackup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBalTransfer.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBank.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBroker.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCashRec.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmChangePass.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCharges.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCompanyColor.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmControlRoom.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCustSuppRate.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDebitCredit.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDescription.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEdit.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEdit1.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDescList.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditDescription.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditGroup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditVouchers.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmHelp.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImportDesc.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImportRate.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImpRate.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmItem.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmItemCharges.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmJournal.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmLogin.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmMailer.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmModifyGroup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmOptions.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmPacking.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmQuery.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmRegistration.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport2.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport3.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport5.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport6.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport7.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSmsSetting.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTaxCategory.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTransactionReports.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTransaction.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_eFiling.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_eFilingCST.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_email.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_main.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_Missprint.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewAcc.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewCompany.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewGroup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Frm_PurImp.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_vouchertype.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.GetData.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.GroupGrid.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.InputBox.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Properties.Resources.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Search.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.SelectAcc.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.showReport.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.exe.manifest
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.application
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.exe
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.pdb
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.exe.manifest
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.application
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.exe
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\faspi.pdb
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\itextsharp.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\office.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\itextsharp.xml
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\ResolveAssemblyReference.cache
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.DisplayData.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmbackup.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBalTransfer.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBank.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmBroker.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCashRec.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmChangePass.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCharges.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCompanyColor.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmControlRoom.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmCustSuppRate.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDebitCredit.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDescription.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEdit.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEdit1.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmDescList.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditDescription.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditGroup.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmEditVouchers.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmHelp.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImportDesc.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImportRate.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmImpRate.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmItem.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmItemCharges.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmJournal.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmLogin.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmMailer.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmModifyGroup.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmOptions.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmPacking.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmQuery.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmRegistration.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport5.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport6.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmReport7.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSmsSetting.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTaxCategory.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTransactionReports.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frmTransaction.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_eFiling.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_eFilingCST.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_email.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_main.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_Missprint.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewAcc.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewCompany.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_NewGroup.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Frm_PurImp.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.frm_vouchertype.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.GetData.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.InputBox.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.PdfReader.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Properties.Resources.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Report.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.Search.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.SelectAcc.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.showReport.resources
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.exe.manifest
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.application
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.exe
+E:\Backup projects\faspi.net\faspi working\faspi\faspi\obj\Release\faspi.pdb
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\Interop.AcroPDFLib.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.exe
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.pdb
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\faspi.exe.manifest
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\faspi.application
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\faspi.exe
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\faspi.pdb
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\itextsharp.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\office.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\ExpandableGridView.pdb
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\itextsharp.xml
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\Interop.AcroPDFLib.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.DisplayData.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmbackup.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmBalTransfer.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmBank.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmBroker.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmCashRec.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmChangePass.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmCharges.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmCompanyColor.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmControlRoom.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmCustSuppRate.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmDebitCredit.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmDescription.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmEdit.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmEdit1.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmDescList.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmEditDescription.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmEditGroup.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmEditVouchers.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmHelp.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmImportDesc.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmImportRate.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmImpRate.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmItem.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmItemCharges.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmJournal.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmLogin.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmMailer.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmModifyGroup.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmOptions.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmPacking.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmQuery.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmRegistration.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmReport5.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmReport6.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmReport7.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmSmsSetting.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmTaxCategory.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmTransactionReports.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frmTransaction.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_eFiling.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_eFilingCST.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_email.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_main.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_Missprint.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_NewAcc.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_NewCompany.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_NewGroup.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.Frm_PurImp.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.frm_vouchertype.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.GetData.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.InputBox.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.PdfReader.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.Properties.Resources.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.Report.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.Search.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.SelectAcc.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.showReport.resources
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.exe.manifest
+C:\Documents and Settings\user3\Desktop\faspi.net\faspi\obj\Release\faspi.application
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.exe
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.pdb
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\faspi.exe.manifest
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\faspi.application
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\faspi.exe
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\faspi.pdb
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\itextsharp.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\office.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\itextsharp.xml
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\ResolveAssemblyReference.cache
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.DisplayData.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmbackup.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmBalTransfer.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmBank.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmBroker.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmCashRec.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmChangePass.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmCharges.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmCompanyColor.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmControlRoom.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmCustSuppRate.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmDebitCredit.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmDescription.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmEdit.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmEdit1.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmDescList.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmEditDescription.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmEditGroup.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmEditVouchers.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmHelp.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmImportDesc.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmImportRate.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmImpRate.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmItem.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmItemCharges.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmJournal.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmLogin.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmMailer.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmModifyGroup.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmOptions.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmPacking.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmQuery.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmRegistration.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmReport5.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmReport6.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmReport7.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmSmsSetting.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmTaxCategory.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmTransactionReports.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frmTransaction.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_eFiling.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_eFilingCST.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_email.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_main.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_Missprint.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_NewAcc.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_NewCompany.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_NewGroup.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.Frm_PurImp.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_vouchertype.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.GetData.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.InputBox.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.PdfReader.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.Properties.Resources.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.Report.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.Search.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.SelectAcc.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.showReport.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.Update.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.exe.manifest
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.application
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.SmsTakada.resources
+E:\Backup projects\faspi.net 24-02-2015\faspi\obj\Release\faspi.frm_import.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\bin\Release\faspi.exe.manifest
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\bin\Release\faspi.application
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\bin\Release\faspi.exe
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\bin\Release\faspi.pdb
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\bin\Release\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.DisplayData.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmbackup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmBalTransfer.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmBank.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmBroker.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmCashRec.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmChangePass.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmCharges.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmCompanyColor.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmControlRoom.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmCustSuppRate.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmDebitCredit.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmDescription.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmEdit.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmEdit1.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmDescList.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmEditDescription.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmEditGroup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmEditVouchers.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmHelp.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmImportDesc.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmImportRate.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmImpRate.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmItem.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmItemCharges.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmJournal.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmLogin.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmMailer.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmModifyGroup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmOptions.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmPacking.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmQuery.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmRegistration.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmReport6.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmSmsSetting.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmTaxCategory.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmTransactionReports.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frmTransaction.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_eFiling.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_eFilingCST.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_email.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_import.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_main.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_Missprint.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_modifyopn.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_NewAcc.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_NewCompany.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_NewGroup.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.Frm_PurImp.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.frm_vouchertype.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.GetData.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.InputBox.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.PdfReader.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.Properties.Resources.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.Report.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.Search.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.SelectAcc.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.showReport.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.SmsTakada.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.Update.resources
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.exe.manifest
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.application
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.exe
+C:\Documents and Settings\Aman\Desktop\faspi.net\faspi\obj\Release\faspi.pdb
+\\Faspi-pc\E\Backup projects\faspi.net\faspi\obj\Release\Interop.AcroPDFLib.dll
+\\Faspi-pc\E\Backup projects\faspi.net\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+\\Faspi-pc\E\Backup projects\faspi.net\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+\\Faspi-pc\E\Backup projects\faspi.net\faspi\obj\Release\faspi.exe
+\\Faspi-pc\E\Backup projects\faspi.net\faspi\obj\Release\faspi.pdb
+D:\faspi.net\faspi\obj\Release\Interop.AcroPDFLib.dll
+D:\faspi.net\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+D:\faspi.net\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+D:\faspi.net\faspi\obj\Release\faspi.exe
+D:\faspi.net\faspi\obj\Release\faspi.pdb
+E:\Backup projects\faspi.net\faspi\bin\Release\faspi.exe.manifest
+E:\Backup projects\faspi.net\faspi\bin\Release\faspi.application
+E:\Backup projects\faspi.net\faspi\bin\Release\faspi.exe
+E:\Backup projects\faspi.net\faspi\bin\Release\faspi.pdb
+E:\Backup projects\faspi.net\faspi\bin\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi\obj\Release\ResolveAssemblyReference.cache
+E:\Backup projects\faspi.net\faspi\obj\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.DisplayData.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmbackup.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmBalTransfer.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmBank.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmBroker.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmCashRec.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmChangePass.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmCharges.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmCompanyColor.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmControlRoom.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmCustSuppRate.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmDebitCredit.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmDescription.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmEdit.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmEdit1.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmDescList.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmEditDescription.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmEditGroup.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmEditVouchers.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmHelp.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmImportDesc.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmImportRate.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmImpRate.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmItem.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmItemCharges.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmJournal.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmLogin.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmMailer.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmModifyGroup.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmOptions.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmPacking.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmQuery.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmRegistration.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmSmsSetting.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmTaxCategory.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmTransactionReports.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frmTransaction.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_eFiling.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_eFilingCST.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_email.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_import.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_main.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_Missprint.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_modifyopn.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_NewAcc.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_NewCompany.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_NewGroup.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.Frm_PurImp.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_vouchertype.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.GetData.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.InputBox.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.PdfReader.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.Properties.Resources.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.Report.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.Search.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.SelectAcc.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.showReport.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.SmsTakada.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.Update.resources
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.exe.manifest
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.application
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.exe
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.pdb
+E:\Backup projects\faspi.net\faspi\obj\Release\faspi.frm_BillByBill.resources
+D:\projects\faspi.net\faspi\obj\Release\Interop.AcroPDFLib.dll
+D:\projects\faspi.net\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+D:\projects\faspi.net\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+D:\projects\faspi.net\faspi\obj\Release\faspi.exe
+D:\projects\faspi.net\faspi\obj\Release\faspi.pdb
+D:\projects\faspi.net\faspi\bin\Release\faspi.exe.manifest
+D:\projects\faspi.net\faspi\bin\Release\faspi.application
+D:\projects\faspi.net\faspi\bin\Release\faspi.exe
+D:\projects\faspi.net\faspi\bin\Release\faspi.pdb
+D:\projects\faspi.net\faspi\bin\Release\Interop.AcroPDFLib.dll
+D:\projects\faspi.net\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+D:\projects\faspi.net\faspi\obj\Release\ResolveAssemblyReference.cache
+D:\projects\faspi.net\faspi\obj\Release\faspi.DisplayData.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmbackup.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmBalTransfer.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmBank.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmBroker.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmCashRec.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmChangePass.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmCharges.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmCompanyColor.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmControlRoom.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmCustSuppRate.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmDebitCredit.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmDescription.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmEdit.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmEdit1.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmDescList.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmEditDescription.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmEditGroup.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmEditVouchers.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmHelp.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmImportDesc.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmImportRate.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmImpRate.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmItem.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmItemCharges.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmJournal.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmLogin.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmMailer.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmModifyGroup.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmOptions.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmPacking.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmQuery.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmRegistration.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmSmsSetting.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmTaxCategory.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmTransactionReports.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frmTransaction.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_BillByBill.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_eFiling.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_eFilingCST.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_email.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_import.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_main.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_Missprint.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_modifyopn.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_NewAcc.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_NewCompany.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_NewGroup.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.Frm_PurImp.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.frm_vouchertype.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.GetData.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.InputBox.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.PdfReader.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.Properties.Resources.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.Report.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.Search.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.SelectAcc.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.showReport.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.SmsTakada.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.Update.resources
+D:\projects\faspi.net\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+D:\projects\faspi.net\faspi\obj\Release\faspi.exe.manifest
+D:\projects\faspi.net\faspi\obj\Release\faspi.application
+E:\Backup projects\Marwari\faspi\bin\Release\Marwari.exe.manifest
+E:\Backup projects\Marwari\faspi\bin\Release\Marwari.application
+E:\Backup projects\Marwari\faspi\bin\Release\Marwari.exe
+E:\Backup projects\Marwari\faspi\bin\Release\Marwari.pdb
+E:\Backup projects\Marwari\faspi\bin\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\Marwari\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\Marwari\faspi\obj\Release\ResolveAssemblyReference.cache
+E:\Backup projects\Marwari\faspi\obj\Release\Interop.AcroPDFLib.dll
+E:\Backup projects\Marwari\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.DisplayData.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmbackup.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmBalTransfer.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmBank.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmBroker.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmCashRec.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmChangePass.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmCharges.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmchart.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmCompanyColor.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmControlRoom.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmCustSuppRate.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmDebitCredit.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmDescription.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmEdit.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmEdit1.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmDescList.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmEditDescription.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmEditGroup.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmEditVouchers.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmHelp.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmImportDesc.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmImportRate.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmImpRate.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmItem.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmItemCharges.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmJournal.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmLogin.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmMailer.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmMaster.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmModifyGroup.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmOptions.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmPacking.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmQuery.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmRegistration.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmSmsSetting.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmTaxCategory.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmTransactionReports.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frmTransaction.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_BillByBill.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_eFiling.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_eFilingCST.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_email.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_impdates.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_import.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_main.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_Merge.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_Missprint.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_modifyopn.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_NewAcc.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_NewCompany.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_NewGroup.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.Frm_PurImp.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_removesmslog.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_smslog.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.frm_vouchertype.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.GetData.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.impUpRate.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.InputBox.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.Merge.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.PdfReader.resources
+E:\Backup projects\Marwari\faspi\obj\Release\Marwari.Properties.Resources.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.Report.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.Search.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.SelectAcc.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.showReport.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.SmsTakada.resources
+E:\Backup projects\Marwari\faspi\obj\Release\faspi.Update.resources
+E:\Backup projects\Marwari\faspi\obj\Release\Marwari.exe.manifest
+E:\Backup projects\Marwari\faspi\obj\Release\Marwari.application
+E:\Backup projects\Marwari\faspi\obj\Release\Marwari.exe
+E:\Backup projects\Marwari\faspi\obj\Release\Marwari.pdb
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\Marwari.exe
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\Marwari.pdb
+C:\Users\USER\Desktop\Marwari\faspi\bin\Release\Marwari.exe.manifest
+C:\Users\USER\Desktop\Marwari\faspi\bin\Release\Marwari.application
+C:\Users\USER\Desktop\Marwari\faspi\bin\Release\Marwari.exe
+C:\Users\USER\Desktop\Marwari\faspi\bin\Release\Marwari.pdb
+C:\Users\USER\Desktop\Marwari\faspi\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Marwari\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.DisplayData.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmbackup.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmBalTransfer.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmBank.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmBroker.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmCashRec.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmChangePass.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmCharges.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmchart.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmCompanyColor.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmControlRoom.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmCustSuppRate.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmDebitCredit.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmDescription.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmEdit.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmEdit1.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmDescList.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmEditDescription.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmEditGroup.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmEditVouchers.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmHelp.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmImportDesc.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmImportRate.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmImpRate.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmItem.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmItemCharges.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmJournal.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmLogin.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmMailer.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmMaster.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmModifyGroup.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmOptions.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmPacking.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmQuery.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmRegistration.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmSmsSetting.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmTaxCategory.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmTransactionReports.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frmTransaction.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_BillByBill.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_eFiling.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_eFilingCST.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_email.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_impdates.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_import.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_main.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_Merge.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_Missprint.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_modifyopn.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_NewAcc.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_NewCompany.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_NewGroup.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.Frm_PurImp.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_removesmslog.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_smslog.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.frm_vouchertype.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.GetData.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.impUpRate.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.InputBox.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.Merge.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.PdfReader.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\Marwari.Properties.Resources.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.Report.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.Search.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.SelectAcc.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.showReport.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.SmsTakada.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.Update.resources
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\Marwari.exe.manifest
+C:\Users\USER\Desktop\Marwari\faspi\obj\Release\Marwari.application
+G:\Marwari\faspi\obj\Release\Interop.AcroPDFLib.dll
+G:\Marwari\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+G:\Marwari\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+G:\Marwari\faspi\obj\Release\Marwari.exe
+G:\Marwari\faspi\obj\Release\Marwari.pdb
+G:\Marwari\faspi\bin\Release\Marwari.exe.manifest
+G:\Marwari\faspi\bin\Release\Marwari.application
+G:\Marwari\faspi\bin\Release\Marwari.exe
+G:\Marwari\faspi\bin\Release\Marwari.pdb
+G:\Marwari\faspi\bin\Release\Interop.AcroPDFLib.dll
+G:\Marwari\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+G:\Marwari\faspi\obj\Release\ResolveAssemblyReference.cache
+G:\Marwari\faspi\obj\Release\faspi.DisplayData.resources
+G:\Marwari\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+G:\Marwari\faspi\obj\Release\faspi.frmbackup.resources
+G:\Marwari\faspi\obj\Release\faspi.frmBalTransfer.resources
+G:\Marwari\faspi\obj\Release\faspi.frmBank.resources
+G:\Marwari\faspi\obj\Release\faspi.frmBroker.resources
+G:\Marwari\faspi\obj\Release\faspi.frmCashRec.resources
+G:\Marwari\faspi\obj\Release\faspi.frmChangePass.resources
+G:\Marwari\faspi\obj\Release\faspi.frmCharges.resources
+G:\Marwari\faspi\obj\Release\faspi.frmchart.resources
+G:\Marwari\faspi\obj\Release\faspi.frmCompanyColor.resources
+G:\Marwari\faspi\obj\Release\faspi.frmControlRoom.resources
+G:\Marwari\faspi\obj\Release\faspi.frmCustSuppRate.resources
+G:\Marwari\faspi\obj\Release\faspi.frmDebitCredit.resources
+G:\Marwari\faspi\obj\Release\faspi.frmDescription.resources
+G:\Marwari\faspi\obj\Release\faspi.frmEdit.resources
+G:\Marwari\faspi\obj\Release\faspi.frmEdit1.resources
+G:\Marwari\faspi\obj\Release\faspi.frmDescList.resources
+G:\Marwari\faspi\obj\Release\faspi.frmEditDescription.resources
+G:\Marwari\faspi\obj\Release\faspi.frmEditGroup.resources
+G:\Marwari\faspi\obj\Release\faspi.frmEditVouchers.resources
+G:\Marwari\faspi\obj\Release\faspi.frmHelp.resources
+G:\Marwari\faspi\obj\Release\faspi.frmImportDesc.resources
+G:\Marwari\faspi\obj\Release\faspi.frmImportRate.resources
+G:\Marwari\faspi\obj\Release\faspi.frmImpRate.resources
+G:\Marwari\faspi\obj\Release\faspi.frmItem.resources
+G:\Marwari\faspi\obj\Release\faspi.frmItemCharges.resources
+G:\Marwari\faspi\obj\Release\faspi.frmJournal.resources
+G:\Marwari\faspi\obj\Release\faspi.frmLogin.resources
+G:\Marwari\faspi\obj\Release\faspi.frmMailer.resources
+G:\Marwari\faspi\obj\Release\faspi.frmMaster.resources
+G:\Marwari\faspi\obj\Release\faspi.frmModifyGroup.resources
+G:\Marwari\faspi\obj\Release\faspi.frmOptions.resources
+G:\Marwari\faspi\obj\Release\faspi.frmPacking.resources
+G:\Marwari\faspi\obj\Release\faspi.frmQuery.resources
+G:\Marwari\faspi\obj\Release\faspi.frmRegistration.resources
+G:\Marwari\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+G:\Marwari\faspi\obj\Release\faspi.frmSmsSetting.resources
+G:\Marwari\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+G:\Marwari\faspi\obj\Release\faspi.frmTaxCategory.resources
+G:\Marwari\faspi\obj\Release\faspi.frmTransactionReports.resources
+G:\Marwari\faspi\obj\Release\faspi.frmTransaction.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_BillByBill.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_eFiling.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_eFilingCST.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_email.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_impdates.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_import.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_main.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_Merge.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_Missprint.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_modifyopn.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_NewAcc.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_NewCompany.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_NewGroup.resources
+G:\Marwari\faspi\obj\Release\faspi.Frm_PurImp.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_removesmslog.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_smslog.resources
+G:\Marwari\faspi\obj\Release\faspi.frm_vouchertype.resources
+G:\Marwari\faspi\obj\Release\faspi.GetData.resources
+G:\Marwari\faspi\obj\Release\faspi.impUpRate.resources
+G:\Marwari\faspi\obj\Release\faspi.InputBox.resources
+G:\Marwari\faspi\obj\Release\faspi.Merge.resources
+G:\Marwari\faspi\obj\Release\faspi.PdfReader.resources
+G:\Marwari\faspi\obj\Release\Marwari.Properties.Resources.resources
+G:\Marwari\faspi\obj\Release\faspi.Report.resources
+G:\Marwari\faspi\obj\Release\faspi.Search.resources
+G:\Marwari\faspi\obj\Release\faspi.SelectAcc.resources
+G:\Marwari\faspi\obj\Release\faspi.showReport.resources
+G:\Marwari\faspi\obj\Release\faspi.SmsTakada.resources
+G:\Marwari\faspi\obj\Release\faspi.Update.resources
+G:\Marwari\faspi\obj\Release\GenerateResource-ResGen.read.1.tlog
+G:\Marwari\faspi\obj\Release\GenerateResource-ResGen.write.1.tlog
+G:\Marwari\faspi\obj\Release\Marwari.exe.manifest
+G:\Marwari\faspi\obj\Release\Marwari.application
+E:\Backup projects\Marwari\faspi\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Backup projects\Marwari\faspi\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Marwari\faspi\obj\Release\Interop.AcroPDFLib.dll
+D:\Projects\Marwari\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+D:\Projects\Marwari\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+D:\Projects\Marwari\faspi\obj\Release\Marwari.exe
+D:\Projects\Marwari\faspi\obj\Release\Marwari.pdb
+D:\Projects\Marwari\faspi\bin\Release\Marwari.exe.manifest
+D:\Projects\Marwari\faspi\bin\Release\Marwari.application
+D:\Projects\Marwari\faspi\bin\Release\Marwari.exe
+D:\Projects\Marwari\faspi\bin\Release\Marwari.pdb
+D:\Projects\Marwari\faspi\bin\Release\Interop.AcroPDFLib.dll
+D:\Projects\Marwari\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+D:\Projects\Marwari\faspi\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Marwari\faspi\obj\Release\faspi.DisplayData.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmbackup.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmBalTransfer.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmBank.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmBroker.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmCashRec.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmChangePass.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmCharges.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmchart.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmCompanyColor.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmControlRoom.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmCustSuppRate.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmDebitCredit.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmDescription.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmEdit.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmEdit1.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmDescList.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmEditDescription.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmEditGroup.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmEditVouchers.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmHelp.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmImportDesc.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmImportRate.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmImpRate.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmItem.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmItemCharges.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmJournal.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmLogin.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmMailer.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmMaster.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmModifyGroup.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmOptions.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmPacking.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmQuery.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmRegistration.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmSmsSetting.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmTaxCategory.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmTransactionReports.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frmTransaction.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_BillByBill.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_eFiling.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_eFilingCST.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_email.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_impdates.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_import.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_main.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_Merge.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_Missprint.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_modifyopn.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_NewAcc.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_NewCompany.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_NewGroup.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.Frm_PurImp.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_removesmslog.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_smslog.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.frm_vouchertype.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.GetData.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.impUpRate.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.InputBox.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.Merge.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.PdfReader.resources
+D:\Projects\Marwari\faspi\obj\Release\Marwari.Properties.Resources.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.Report.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.Search.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.SelectAcc.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.showReport.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.SmsTakada.resources
+D:\Projects\Marwari\faspi\obj\Release\faspi.Update.resources
+D:\Projects\Marwari\faspi\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Marwari\faspi\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Marwari\faspi\obj\Release\Marwari.exe.manifest
+D:\Projects\Marwari\faspi\obj\Release\Marwari.application
+E:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.exe.manifest
+E:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.application
+E:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.exe
+E:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.pdb
+E:\Projects\Marwarisqlserver\faspi\bin\Release\Interop.AcroPDFLib.dll
+E:\Projects\Marwarisqlserver\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+E:\Projects\Marwarisqlserver\faspi\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\Marwarisqlserver\faspi\obj\Release\Interop.AcroPDFLib.dll
+E:\Projects\Marwarisqlserver\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.DisplayData.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmbackup.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmBalTransfer.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmBank.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmBroker.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCashRec.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmChangePass.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCharges.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmchart.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCompanyColor.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmControlRoom.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCustSuppRate.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmDebitCredit.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmDescription.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEdit.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEdit1.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmDescList.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEditDescription.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEditGroup.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEditVouchers.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmHelp.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmImportDesc.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmImportRate.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmImpRate.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmItem.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmItemCharges.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmJournal.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmLogin.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmMailer.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmMaster.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmModifyGroup.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmOptions.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmPacking.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmQuery.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmRegistration.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmSmsSetting.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmTaxCategory.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmTransactionReports.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmTransaction.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_BillByBill.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_eFiling.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_eFilingCST.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_email.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_impdates.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_import.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_main.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_Merge.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_Missprint.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_modifyopn.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_NewAcc.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_NewCompany.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_NewGroup.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Frm_PurImp.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_removesmslog.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_smslog.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_updaterate.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_uploadData.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_vouchertype.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.GetData.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.impUpRate.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.InputBox.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Merge.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.PdfReader.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.Properties.Resources.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Report.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Search.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.SelectAcc.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.showReport.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.SmsTakada.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Update.resources
+E:\Projects\Marwarisqlserver\faspi\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Projects\Marwarisqlserver\faspi\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.exe.manifest
+E:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.application
+E:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.exe
+E:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.pdb
+D:\Projects\Marwarisqlserver\faspi\obj\Release\Interop.AcroPDFLib.dll
+D:\Projects\Marwarisqlserver\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+D:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.exe
+D:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.pdb
+D:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.exe.manifest
+D:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.application
+D:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.exe
+D:\Projects\Marwarisqlserver\faspi\bin\Release\Marwari.pdb
+D:\Projects\Marwarisqlserver\faspi\bin\Release\Microsoft.SqlServer.Replication.dll
+D:\Projects\Marwarisqlserver\faspi\bin\Release\Interop.AcroPDFLib.dll
+D:\Projects\Marwarisqlserver\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+D:\Projects\Marwarisqlserver\faspi\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.DisplayData.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmbackup.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmBalTransfer.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmBank.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmBroker.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCashRec.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmChangePass.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCharges.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmchart.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCompanyColor.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmControlRoom.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmCustSuppRate.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmDebitCredit.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmDescription.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEdit.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEdit1.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmDescList.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEditDescription.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEditGroup.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmEditVouchers.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmHelp.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmImportDesc.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmImportRate.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmImpRate.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmItem.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmItemCharges.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmJournal.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmLogin.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmMailer.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmMaster.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmModifyGroup.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmOptions.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmPacking.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmQuery.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmRegistration.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmSmsSetting.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmTaxCategory.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmTransactionReports.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frmTransaction.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_BillByBill.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_eFiling.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_eFilingCST.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_email.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_impdates.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_import.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_main.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_Merge.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_Missprint.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_modifyopn.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_NewAcc.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_NewCompany.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_NewGroup.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Frm_PurImp.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_removesmslog.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_smslog.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_updaterate.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_uploadData.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.frm_vouchertype.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.GetData.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.impUpRate.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.InputBox.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Merge.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.PdfReader.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.Properties.Resources.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Report.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Search.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.SelectAcc.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.showReport.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.SmsTakada.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\faspi.Update.resources
+D:\Projects\Marwarisqlserver\faspi\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Marwarisqlserver\faspi\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.exe.manifest
+D:\Projects\Marwarisqlserver\faspi\obj\Release\Marwari.application
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.csproj.ResolveComReference.cache
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\Marwari.exe
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\Marwari.pdb
+C:\Users\faspi\Desktop\Marwari_New\faspi\bin\Release\Marwari.exe.manifest
+C:\Users\faspi\Desktop\Marwari_New\faspi\bin\Release\Marwari.application
+C:\Users\faspi\Desktop\Marwari_New\faspi\bin\Release\Marwari.exe
+C:\Users\faspi\Desktop\Marwari_New\faspi\bin\Release\Marwari.pdb
+C:\Users\faspi\Desktop\Marwari_New\faspi\bin\Release\Microsoft.SqlServer.Replication.dll
+C:\Users\faspi\Desktop\Marwari_New\faspi\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\faspi\Desktop\Marwari_New\faspi\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.csprojResolveAssemblyReference.cache
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.ControlRoom.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.DisplayData.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.DownloadUpdateDialog.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmbackup.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmBalTransfer.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmBank.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmBroker.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmCashRec.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmChangePass.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmCharges.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmchart.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmCompanyColor.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmControlRoom.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmCustSuppRate.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmDebitCredit.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmDescription.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmEdit.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmDescList.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmEditDescription.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmEditGroup.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmEditVouchers.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmHelp.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmImportDesc.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmImportRate.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmImpRate.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmItem.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmItemCharges.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmJournal.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmLogin.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmMailer.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmMaster.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmMasterVou.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmModifyGroup.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmOptions.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmPacking.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmQuery.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmRegistration.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmSmartDocumentFinder.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmSmsSetting.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmSoftwareUpdates.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmTaxCategory.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmTransactionReports.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frmTransaction.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.Frmvouchertype.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_BillByBill.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_eFiling.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_eFilingCST.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_email.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_flowlayout.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_impdates.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_import.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_main.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_Merge.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_Missprint.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_modifyopn.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_NewAcc.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_NewCompany.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_NewGroup.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_openingstock.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.Frm_PurImp.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_removesmslog.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_smslog.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_state.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_updaterate.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_uploadData.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.frm_vouchertype.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.GetData.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.impUpRate.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.InputBox.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.Merge.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.PdfReader.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\Marwari.Properties.Resources.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.Report.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.Search.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.SelectAcc.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.showReport.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.SmsTakada.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.Update.resources
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\faspi.csproj.GenerateResource.Cache
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\Marwari.exe.manifest
+C:\Users\faspi\Desktop\Marwari_New\faspi\obj\Release\Marwari.application

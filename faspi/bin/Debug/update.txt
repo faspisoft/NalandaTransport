@@ -1,0 +1,3 @@
+alter table voucherinfos add IsSelf bit default 0
+
+alter table voucherinfos add Challan_id nvarchar(50) default ''
